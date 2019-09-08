@@ -1,0 +1,23 @@
+// Place all the styles related to the Places controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+textarea {
+	width: 500px;
+	height: 250px;
+	}
+body {
+	text-align: center;
+}
+div.name {
+	    font-size: 10vw;
+    margin-bottom: 175px;
+    margin-top: 18%;
+}
+div.score {
+	font-size: 4vw;
+	margin-bottom: 125px;
+}
+div.body {
+	font-size: 3vw;
+	    line-height: 60px;
+}
